@@ -1,6 +1,6 @@
-# Cadillac Mountain Hawkwatch, Acadia NP, ME
+# Cadillac Mountain HawkWatch, Acadia NP, ME
 
-Cadillac Mountain Hawk Watch data analysis project by Schoodic Institute at Acadia National Park. Project started, and still in progress.
+Cadillac Mountain HawkWatch data analysis project by Schoodic Institute at Acadia National Park. Project started, and still in progress.
 
 <br>
 
